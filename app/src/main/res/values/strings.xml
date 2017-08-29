@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ChennaiTourGuide</string>
+
+
+        <!-- Title for the application. [CHAR LIMIT=12] -->
+
+
+
+        <!-- Category name for phrases [CHAR LIMIT=20] -->
+        <string name="placesofinterest">Places of Interest</string>
+
+        <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+        <string name="history">History</string>
+
+        <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+        <string name="currentweather">Current weather</string>
+
+        <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+        <string name="booktickets">Book tickets</string>
+    </resources>
